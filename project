@@ -1,6 +1,6 @@
 introduction.txt
 1.	Users register in the system and create wallets.
-2.	User can top-up the wallet using different payment methods (payment cards, bank transfer, payment kiosk).
+2.	User can top-up the wallet using different payment methods (payment cards, bank transfer, payment).
 3.	User can make transfers from his wallet to another user.
 4.	Users can purchase goods and pay for services with their wallet.
 5.	User can withdraw funds from her wallet via different methods (to card, to a bank account, through cash agent).
